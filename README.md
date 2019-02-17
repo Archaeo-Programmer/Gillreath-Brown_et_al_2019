@@ -4,8 +4,10 @@
 > Gillreath-Brown, Andrew, Lisa Nagaoka, and Steve Wolverton. A Geospatial Method for Estimating Soil Moisture Variability in Prehistoric Agricultural Landscapes, 2019. PLoSONE, in review. http://doi.org/
 
 > Gillreath-Brown, Andrew, Lisa Nagaoka, and Steve Wolverton. Map Packages for: A Geospatial Method for Estimating Soil Moisture Variability in Prehistoric Agricultural Landscapes, 2019. Version 1.0.0. Zenodo. https://doi.org/
+### Map Packages DOI:
 
 [![DOI](https://zenodo.org/badge/DOI/10./zenodo.1.svg)](https://doi.org/)
+
 The files at the URL above will generate the results as found in the publication. The files hosted at [https://github.com/Archaeo-Programmer/Gillreath-Brown_et_al_2019](https://github.com/Archaeo-Programmer/Gillreath-Brown_et_al_2019) are the development versions and may have changed since the map packages were released.
 ### Authors  of this repository:
 - Andrew Gillreath-Brown ([andrew.brown1234@gmail.com](mailto:andrew.brown1234@gmail.com))
