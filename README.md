@@ -19,7 +19,7 @@ The map packages were created in ArcGIS (10.2.2); however, the packages will wor
 
 ### Licenses
 
-Code: [MIT](http://opensource.org/licenses/MIT) year: `r format(Sys.Date(), "%Y")`<br>
+Code: [MIT](http://opensource.org/licenses/MIT) year: 2019 <br>
 Copyright holders: Andrew Gillreath-Brown, Lisa Nagaoka, and Steve Wolverton
 
 ### Contact
