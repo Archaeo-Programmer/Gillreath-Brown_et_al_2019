@@ -1,4 +1,5 @@
-# Note: All data was archived on Zenodo instead of here on GitHub. 
+## Note: All data was archived on Zenodo instead of here on GitHub.
+
 
 ## Map packages for Gillreath-Brown, Nagaoka, and Wolverton (2019)
 **When using the GIS data included in these map packages, please cite all of the following:
@@ -10,7 +11,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2572018.svg)](https://doi.org/10.5281/zenodo.2572018)
 
-The files at the URL above will generate the results as found in the publication. The files hosted at [https://github.com/Archaeo-Programmer/Gillreath-Brown_et_al_2019](https://github.com/Archaeo-Programmer/Gillreath-Brown_et_al_2019) are the development versions and may have changed since the map packages were released.
+The files at the URL above will generate the results as found in the publication. 
 ### Authors  of this repository:
 - Andrew Gillreath-Brown ([andrew.brown1234@gmail.com](mailto:andrew.brown1234@gmail.com))
 - Lisa Nagaoka ([lisa.nagaoka@unt.edu](mailto:lisa.nagaoka@unt.edu))
