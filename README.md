@@ -1,4 +1,4 @@
-## Note: All data was archived on Zenodo instead of here on GitHub.
+## Note: All data was archived on Zenodo (https://doi.org/10.5281/zenodo.2572018) instead of here on GitHub.
 
 
 ## Map packages for Gillreath-Brown, Nagaoka, and Wolverton (2019)
